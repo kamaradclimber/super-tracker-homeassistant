@@ -1,0 +1,12 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Select your device",
+        "data": {
+          "device_id": "Select the device to track"
+        }
+      }
+    }
+  }
+}
