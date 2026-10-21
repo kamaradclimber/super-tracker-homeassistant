@@ -1,5 +1,6 @@
 {
   "name": "Super Tracker",
   "render_readme": true,
-  "iot_class": "cloud_push"
+  "iot_class": "cloud_push",
+  "homeassistant": "2026.11"
 }

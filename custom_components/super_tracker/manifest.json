@@ -1,5 +1,10 @@
 {
-  "codeowners": ["kamaradclimber"],
+  "codeowners": [
+    "kamaradclimber"
+  ],
+  "categories": [
+    "presence_location"
+  ],
   "config_flow": true,
   "dependencies": [],
   "documentation": "https://github.com/kamaradclimber/super-tracker-homeassistant",
@@ -7,5 +12,5 @@
   "iot_class": "cloud_push",
   "name": "Super Tracker",
   "requirements": [],
-  "version": "0.1.0"
+  "version": "0.1.1"
 }
